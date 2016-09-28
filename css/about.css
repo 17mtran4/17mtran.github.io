@@ -14,7 +14,7 @@
 }
 
 table, td, th {
-    border: 2px solid #919191;
+    border: 2px solid #ff4d58;
     text-align: center;
 }
 
@@ -25,5 +25,6 @@ table {
 
 th, td {
     padding: 10px;
+    color: #323232; /* 919191 323232*/
     
 }

@@ -10,6 +10,10 @@ body {
     padding: 0;
 }
 
+p, li, q {
+    color: #323232;
+}
+
 hr {
     border: 0;
     height: 0;
