@@ -31,9 +31,10 @@ hr {
     background-color: #f2f2f2;
     margin: 0 auto;
     width: 960px;
-    height: 1080px;
+    height: 1250px;
     padding: 10px;
 }
+
 
 h1 {
     text-align: center;
@@ -55,16 +56,21 @@ footer {
     padding-top: 10px;
 }
 
-footer h3 {
+footer h3, .container h3 {
     -webkit-margin-after: .3em;
 }
 
 footer .links {
-    width: 25%;
+    width: 10%;
     float: left;
     color: #fff;
 }
 
+footer .sc {
+    width: 60%;
+    float: left;
+    color: #fff;
+}
 
 footer ul {
     list-style-type: none;
