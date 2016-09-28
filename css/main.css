@@ -50,9 +50,13 @@ footer {
 
 .footer-area {
     background-color: #323232;
-    padding: 100px;
+    padding: 170px;
     padding-right: 10px;
     padding-top: 10px;
+}
+
+footer h3 {
+    -webkit-margin-after: .3em;
 }
 
 footer .links {
@@ -74,7 +78,7 @@ footer a {
 
 .copyright-text {
     float: right;
-    padding-top: 75px;
+    padding-top: 140px;
 }
 
 
