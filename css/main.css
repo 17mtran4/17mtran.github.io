@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+.center {
+    text-align: center;
+}
+
 body {
     font-family: "Lato", "Comic Sans MS";
     color: #ff4d58;
@@ -123,4 +127,35 @@ nav a {
 
 nav .active {
     background-color: #ff4d58;
+}
+
+.project {
+    display: block;
+    margin-bottom: 100px;
+}
+.preview {
+    vertical-align: top;
+    display: block;
+    text-align: center;
+    width: 150px;
+    float: left;
+    margin-right: 20px;
+}
+
+.preview > a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.preview > a > img {
+    width: 150px;
+}
+.caption {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.description {
+    display: block;
+    padding-top: 4px;
 }
